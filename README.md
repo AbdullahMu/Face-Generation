@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="face-generation">Face Generation</h1>
 <h3 id="introduction">Introduction</h3>
 <p>In this project, you’ll use generative adversarial networks to generate new images of faces.</p>
